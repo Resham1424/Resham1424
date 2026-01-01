@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me
+BTech CSE student | MERN & Data Science Intern | DSA in C++ | AI & ML Enthusiast | Building scalable backend & ML-driven solutions
 
 I am a passionate **Computer Science Engineering student** with a strong interest in **Software Development, Backend Engineering, Data Science, and Artificial Intelligence**. I enjoy solving real-world problems through clean, efficient code and continuously improving my technical and problem-solving skills.
 
@@ -66,21 +66,10 @@ My primary areas of interest include **Backend Development, Artificial Intellige
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+## 🧩 Skills in Action
+- Solved DSA problems using **C++** (Arrays, Strings, Recursion, STL)
+- Built **ML pipelines** from data preprocessing to model evaluation
+- Developed **RESTful APIs** using Node.js & Express
+- Worked with **SQL & NoSQL databases** (MySQL, MongoDB, Oracle)
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Resham1424&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Resham1424&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Resham1424&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Resham1424&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Resham1424&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
