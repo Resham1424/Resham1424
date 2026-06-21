@@ -110,26 +110,35 @@ const resham = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Resham1424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=7B42F6&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Resham1424&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=7B42F6&fire=FF6B6B&currStreakLabel=00F7F7"/>
+<!-- Row 1: Stats + Streak side by side -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Resham1424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=7B42F6&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Resham1424&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B42F6&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&sideLabels=FFFFFF&dates=AAAAAA"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resham1424&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Resham1424&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7"/>
+<!-- Row 2: Top langs + Activity Graph -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Resham1424&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8"/>
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Resham1424&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=00F7F7&area=true&area_color=7B42F6"/>
 
+</div>
+
+<br/>
+
+<!-- Row 3: Full width trophies -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Resham1424&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-### 🔧 Tools & Version Control
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Resham1424/Resham1424/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Resham1424/Resham1424/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Resham1424/Resham1424/output/github-snake.svg"/>
+  </picture>
+</div>
 
-## 🧩 Skills in Action
-- Solved DSA problems using **C++** (Arrays, Strings, Recursion, STL)
-- Built **ML pipelines** from data preprocessing to model evaluation
-- Developed **RESTful APIs** using Node.js & Express
-- Worked with **SQL & NoSQL databases** (MySQL, MongoDB, Oracle)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer"/>
