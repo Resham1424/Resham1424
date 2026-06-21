@@ -1,18 +1,29 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Resham%20Afroz&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Resham%20Afroz&fontSize=75&fontColor=00F7F7&animation=twinkling&fontAlignY=38&desc=BTech%20CSE%20%7C%20MERN%20%7C%20AI%20%26%20ML&descSize=20&descAlignY=58&descColor=7B42F6"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=80&lines=BTech+CSE+Student+%F0%9F%8E%93;MERN+Stack+Developer+%F0%9F%92%BB;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Backend+Engineer+%E2%9A%A1;DSA+in+C%2B%2B+%F0%9F%8E%AF;Building+AI-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=750&height=70&lines=🎓+BTech+CSE+Student+%40+3rd+Year;💻+MERN+Stack+%26+Backend+Developer;🤖+Data+Science+%26+ML+Enthusiast;⚡+DSA+Problem+Solver+in+C%2B%2B;🚀+Building+AI-Driven+Solutions;🌱+Open+Source+%26+Hackathon+Contributor" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/shaik-resham-afroz-2a5b8b317/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:rresham317@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/Resham1424"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- Badges Row -->
+<a href="https://www.linkedin.com/in/shaik-resham-afroz-2a5b8b317/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="mailto:rresham317@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://github.com/Resham1424">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Resham1424&style=for-the-badge&color=00F7F7&label=PROFILE+VIEWS"/>
+<!-- Profile Views + Followers -->
+<img src="https://komarev.com/ghpvc/?username=Resham1424&style=for-the-badge&color=7B42F6&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Resham1424?style=for-the-badge&color=00F7F7&labelColor=0D1117&label=FOLLOWERS"/>
 
 </div>
 
@@ -20,9 +31,10 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<!-- About Me -->
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### 🧑‍💻 About Me
+### 👩‍💻 About Me
 
 ```javascript
 const resham = {
@@ -31,10 +43,11 @@ const resham = {
     education  : "BTech CSE — 3rd Year 🎓",
     internships: [
         "MERN Stack Intern  @ SmartBridge 🌐",
-        "Data Science Intern @ SkillDzire 📊"
+        "Data Science Intern @ SkillDzire  📊"
     ],
-    currentFocus : ["DSA in C++", "ML Pipelines", "MERN Apps"],
-    interests    : ["Backend Dev", "AI", "Machine Learning"],
+    currentFocus : ["DSA in C++", "ML Pipelines", "MERN Stack"],
+    interests    : ["Backend Dev", "AI/ML", "Open Source"],
+    achievements : ["Hackathon Participant 🏆", "22+ Repos 📁"],
     motto: "Clean code, clear mind — bugs don't stand a chance 💡",
 
     lifeLoop: function() {
@@ -46,8 +59,24 @@ const resham = {
 ```
 
 <br/><br/><br/>
-
 <br clear="right"/>
+
+---
+
+<!-- What I'm up to -->
+<div align="center">
+
+## 🚀 What I'm Currently Up To
+
+</div>
+
+| 🔭 Working On | MERN Stack Apps & ML Projects |
+|---|---|
+| 🌱 Learning | Advanced DSA, System Design, AWS |
+| 👯 Looking to Collaborate | Open Source & AI/ML Projects |
+| 💬 Ask Me About | C++, Python, MERN Stack, ML |
+| 🏆 Achievements | College Hackathons, 22+ GitHub Repos |
+| ⚡ Fun Fact | I debug with coffee ☕ and determination 💪 |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -94,11 +123,13 @@ const resham = {
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-**🔧 Tools**
+**🔧 Tools & IDEs**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -110,35 +141,83 @@ const resham = {
 
 <div align="center">
 
-<!-- Row 1: Stats + Streak side by side -->
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Resham1424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=7B42F6&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github"/>
 <img height="180em" src="https://streak-stats.demolab.com/?user=Resham1424&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B42F6&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&sideLabels=FFFFFF&dates=AAAAAA"/>
 
 <br/><br/>
 
-<!-- Row 2: Top langs + Activity Graph -->
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Resham1424&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8"/>
 <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Resham1424&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=00F7F7&area=true&area_color=7B42F6"/>
 
-</div>
-
-<br/>
-
-<!-- Row 3: Full width trophies -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Resham1424&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Resham1424/Resham1424/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Resham1424/Resham1424/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Resham1424/Resham1424/output/github-snake.svg"/>
-  </picture>
+<img src="https://github-profile-trophy.vercel.app/?username=Resham1424&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer"/>
+<br/>
+
+<!-- Profile Summary Cards -->
+<div align="center">
+
+<h2>📈 Contribution Overview</h2>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Resham1424&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Resham1424&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Resham1424&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Resham1424&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Resham1424&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+<!-- Featured Projects -->
+<h2 align="center">🌟 Featured Projects</h2>
+
+<div align="center">
+
+<a href="https://github.com/Resham1424/Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-Using-Machine-Learning-Techniques">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Resham1424&repo=Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-Using-Machine-Learning-Techniques&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=7B42F6&text_color=FFFFFF"/>
+</a>
+<a href="https://github.com/Resham1424/q-ai">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Resham1424&repo=q-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=7B42F6&text_color=FFFFFF"/>
+</a>
+
+<a href="https://github.com/Resham1424/Student-performance-detection">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Resham1424&repo=Student-performance-detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=7B42F6&text_color=FFFFFF"/>
+</a>
+<a href="https://github.com/Resham1424/crime-risk-zone-prediction-system">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Resham1424&repo=crime-risk-zone-prediction-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=7B42F6&text_color=FFFFFF"/>
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+<!-- Random Dev Quote -->
+<div align="center">
+
+<h2>💬 Dev Quote of the Day</h2>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=00F7F7&fontAlignY=65"/>
