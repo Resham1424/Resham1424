@@ -1,13 +1,9 @@
 <div align="center">
-
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Resham%20Afroz&fontSize=75&fontColor=00F7F7&animation=twinkling&fontAlignY=38&desc=BTech%20CSE%20%7C%20MERN%20%7C%20AI%20%26%20ML&descSize=20&descAlignY=58&descColor=7B42F6"/>
-
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=750&height=70&lines=🎓+BTech+CSE+Student+%40+3rd+Year;💻+MERN+Stack+%26+Backend+Developer;🤖+Data+Science+%26+ML+Enthusiast;⚡+DSA+Problem+Solver+in+C%2B%2B;🚀+Building+AI-Driven+Solutions;🌱+Open+Source+%26+Hackathon+Contributor" alt="Typing SVG" />
-
 <br/>
-
 <!-- Badges Row -->
 <a href="https://www.linkedin.com/in/shaik-resham-afroz-2a5b8b317/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,18 +14,13 @@
 <a href="https://github.com/Resham1424">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <br/><br/>
 
 <!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=Resham1424&style=for-the-badge&color=7B42F6&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Resham1424?style=for-the-badge&color=00F7F7&labelColor=0D1117&label=FOLLOWERS"/>
-
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
 
 <!-- About Me -->
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
