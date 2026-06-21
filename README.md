@@ -6,27 +6,21 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/shaik-resham-afroz-2a5b8b317/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="mailto:rresham317@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://github.com/Resham1424">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/shaik-resham-afroz-2a5b8b317/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:rresham317@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Resham1424"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Resham1424&style=for-the-badge&color=00F7F7&label=PROFILE+VIEWS"/>
 
-<br/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-</div>
-
 ---
+
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 🧑‍💻 About Me
 
@@ -36,18 +30,24 @@ const resham = {
     location   : "Andhra Pradesh, India 🇮🇳",
     education  : "BTech CSE — 3rd Year 🎓",
     internships: [
-        "MERN Stack Intern  @ SmartBridge  🌐",
-        "Data Science Intern @ SkillDzire  📊"
+        "MERN Stack Intern  @ SmartBridge 🌐",
+        "Data Science Intern @ SkillDzire 📊"
     ],
     currentFocus : ["DSA in C++", "ML Pipelines", "MERN Apps"],
-    interests    : ["Backend Dev", "Artificial Intelligence", "ML"],
-    motto        : "Clean code, clear mind — bugs don't stand a chance 💡",
+    interests    : ["Backend Dev", "AI", "Machine Learning"],
+    motto: "Clean code, clear mind — bugs don't stand a chance 💡",
 
     lifeLoop: function() {
-        while (alive) { learn(); build(); solve(); repeat(); }
+        while (alive) {
+            learn(); build(); solve(); repeat();
+        }
     }
 };
 ```
+
+<br/><br/><br/>
+
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -110,12 +110,12 @@ const resham = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Resham1424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Resham1424&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Resham1424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=7B42F6&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Resham1424&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=7B42F6&fire=FF6B6B&currStreakLabel=00F7F7"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resham1424&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resham1424&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Resham1424&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7"/>
 
 </div>
@@ -124,20 +124,12 @@ const resham = {
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Resham1424&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Resham1424/Resham1424/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Resham1424/Resham1424/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Resham1424/Resham1424/output/github-snake.svg"/>
-  </picture>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer"/>
+## 🧩 Skills in Action
+- Solved DSA problems using **C++** (Arrays, Strings, Recursion, STL)
+- Built **ML pipelines** from data preprocessing to model evaluation
+- Developed **RESTful APIs** using Node.js & Express
+- Worked with **SQL & NoSQL databases** (MySQL, MongoDB, Oracle)
