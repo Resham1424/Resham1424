@@ -1,14 +1,15 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Resham%20Afroz&fontSize=75&fontColor=00F7F7&animation=twinkling&fontAlignY=38&desc=BTech%20CSE%20%7C%20MERN%20%7C%20AI%20%26%20ML&descSize=20&descAlignY=58&descColor=7B42F6"/>
+<!-- Header using svg.io - more reliable -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=Resham%20Afroz&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTech%20CSE%20%7C%20MERN%20%7C%20AI%20%26%20ML&descSize=20&descAlignY=58&descColor=ccccff"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=750&height=70&lines=🎓+BTech+CSE+Student+%40+3rd+Year;💻+MERN+Stack+%26+Backend+Developer;🤖+Data+Science+%26+ML+Enthusiast;⚡+DSA+Problem+Solver+in+C%2B%2B;🚀+Building+AI-Driven+Solutions;🌱+Open+Source+%26+Hackathon+Contributor" alt="Typing SVG" />
+<!-- Typing Animation - using different instance -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7B42F6&center=true&vCenter=true&random=false&width=750&height=70&lines=🎓+BTech+CSE+Student+%40+3rd+Year;💻+MERN+Stack+%26+Backend+Developer;🤖+Data+Science+%26+ML+Enthusiast;⚡+DSA+Problem+Solver+in+C%2B%2B;🚀+Building+AI-Driven+Solutions;🌱+Hackathon+%26+Open+Source+Contributor" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Badges Row -->
 <a href="https://www.linkedin.com/in/shaik-resham-afroz-2a5b8b317/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
@@ -21,17 +22,18 @@
 
 <br/><br/>
 
-<!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=Resham1424&style=for-the-badge&color=7B42F6&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Resham1424?style=for-the-badge&color=00F7F7&labelColor=0D1117&label=FOLLOWERS"/>
 
-</div>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- Reliable animated divider -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
+
+</div>
 
 ---
 
-<!-- About Me -->
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 👩‍💻 About Me
@@ -63,7 +65,6 @@ const resham = {
 
 ---
 
-<!-- What I'm up to -->
 <div align="center">
 
 ## 🚀 What I'm Currently Up To
@@ -78,26 +79,9 @@ const resham = {
 | 🏆 Achievements | College Hackathons, 22+ GitHub Repos |
 | ⚡ Fun Fact | I debug with coffee ☕ and determination 💪 |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
----
-
-<h2 align="center<!-- What I'm up to -->
-<div align="center">
-
-## 🚀 What I'm Currently Up To
-
-</div>
-
-| 🔭 Working On | MERN Stack Apps & ML Projects |
-|---|---|
-| 🌱 Learning | Advanced DSA, System Design, AWS |
-| 👯 Looking to Collaborate | Open Source & AI/ML Projects |
-| 💬 Ask Me About | C++, Python, MERN Stack, ML |
-| 🏆 Achievements | College Hackathons, 22+ GitHub Repos |
-| ⚡ Fun Fact | I debug with coffee ☕ and determination 💪 |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
 
 ---
 
@@ -152,7 +136,7 @@ const resham = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
 
 ---
 
@@ -160,17 +144,17 @@ const resham = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Resham1424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=7B42F6&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=Resham1424&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B42F6&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&sideLabels=FFFFFF&dates=AAAAAA"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Resham1424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B42F6&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Resham1424&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B42F6&ring=00F7F7&fire=FF6B6B&currStreakLabel=7B42F6&sideLabels=FFFFFF&dates=AAAAAA"/>
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Resham1424&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8"/>
-<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Resham1424&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=00F7F7&area=true&area_color=7B42F6"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Resham1424&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B42F6&text_color=FFFFFF&langs_count=8"/>
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Resham1424&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=7B42F6&line=00F7F7&point=FFFFFF&area=true&area_color=7B42F6"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
 
 ---
 
@@ -182,10 +166,9 @@ const resham = {
 
 <br/>
 
-<!-- Profile Summary Cards -->
-<div align="center">
+<h2 align="center">📈 Contribution Overview</h2>
 
-<h2>📈 Contribution Overview</h2>
+<div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Resham1424&theme=tokyonight"/>
 
@@ -198,11 +181,10 @@ const resham = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
 
 ---
 
-<!-- Featured Projects -->
 <h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
@@ -223,20 +205,19 @@ const resham = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
 
 ---
 
-<!-- Random Dev Quote -->
 <div align="center">
 
 <h2>💬 Dev Quote of the Day</h2>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%"/>
 
+<br/><br/>
+
+<!-- Footer banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=140&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=28&fontColor=ffffff&fontAlignY=65"/>
+
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=00F7F7&fontAlignY=65"/>
