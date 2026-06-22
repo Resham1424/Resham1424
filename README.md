@@ -1,74 +1,224 @@
-## Hi there 👋
+<div align="center">
 
-BTech CSE student | MERN & Data Science Intern | DSA in C++ | AI & ML Enthusiast | Building scalable backend & ML-driven solutions
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a0533,70:2d1b69,100:0a0a0a&height=220&section=header&text=Resham%20Afroz&fontSize=72&fontColor=00F7F7&animation=fadeIn&fontAlignY=38&desc=BTech%20CSE%20%7C%20MERN%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlignY=58&descColor=a78bfa"/>
 
-I am a passionate **Computer Science Engineering student** with a strong interest in **Software Development, Backend Engineering, Data Science, and Artificial Intelligence**. I enjoy solving real-world problems through clean, efficient code and continuously improving my technical and problem-solving skills.
+<br/>
 
-Currently, I am a **third-year BTech CSE student** working as a **Web Development (MERN) Intern at SmartBridge** and a **Data Science Intern at SkillDzire**. Through these internships, I have gained hands-on experience in **full-stack web development, data analysis, machine learning models, and practical AI-driven solutions**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=a78bfa&center=true&vCenter=true&random=false&width=750&height=60&lines=🎓+BTech+CSE+%40+3rd+Year;💻+MERN+Stack+%26+Backend+Developer;🤖+Data+Science+%26+ML+Enthusiast;⚡+DSA+Problem+Solver+in+C%2B%2B;🚀+Building+AI-Driven+Real-World+Solutions;🌱+Open+Source+%26+Hackathon+Contributor" alt="Typing SVG" />
 
-I am actively preparing for **software engineering roles** by strengthening my foundations in **Data Structures & Algorithms using C++**, practicing competitive programming, and building real-world projects. I have participated in **college-level hackathons and technical events**, which enhanced my teamwork, analytical thinking, and implementation skills.
+<br/><br/>
 
-My primary areas of interest include **Backend Development, Artificial Intelligence, and Machine Learning**. I am highly motivated to learn new technologies, contribute to impactful projects, and grow as a skilled software engineer.
+<a href="https://www.linkedin.com/in/shaik-resham-afroz-2a5b8b317/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="mailto:rresham317@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://github.com/Resham1424">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<br/><br/>
 
-## 🚀 What I’m Currently Working On
-- Strengthening **DSA & Problem Solving** using C++
-- Building **MERN Stack** applications
-- Working on **Machine Learning & Data Analytics projects**
-- Improving **GitHub & Portfolio** with meaningful projects
+<img src="https://komarev.com/ghpvc/?username=Resham1424&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Resham1424?style=for-the-badge&color=06b6d4&labelColor=0D1117&label=FOLLOWERS"/>
 
----
+</div>
 
-## 🎯 What I’m Looking For
-- Software Engineering Internships / Entry-Level Roles  
-- Opportunities in **Backend Development, AI/ML, or Full-Stack Development**
-- Collaborative projects and open-source contributions
+<br/>
 
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-resham-afroz-2a5b8b317/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rresham317@gmail.com)
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
 
 ---
 
-## 💻 Tech Stack
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### 🧠 Programming Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 👩‍💻 About Me
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
+```javascript
+const resham = {
+    pronouns   : "She/Her",
+    location   : "Andhra Pradesh, India 🇮🇳",
+    education  : "BTech CSE — 3rd Year 🎓",
+    internships: [
+        "MERN Stack Intern  @ SmartBridge 🌐",
+        "Data Science Intern @ SkillDzire  📊"
+    ],
+    currentFocus : ["DSA in C++", "ML Pipelines", "MERN Stack"],
+    interests    : ["Backend Dev", "AI/ML", "Open Source"],
+    achievements : ["Hackathon Participant 🏆", "22+ GitHub Repos 📁"],
+    motto: "Clean code, clear mind — bugs don't stand a chance 💡",
 
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    lifeLoop: function() {
+        while (alive) {
+            learn(); build(); solve(); repeat();
+        }
+    }
+};
+```
 
-### 📊 Data Science & ML
+<br/><br/><br/>
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+### 🚀 What I'm Currently Up To
+
+| | |
+|---|---|
+| 🔭 **Working On** | MERN Stack Apps & ML Projects |
+| 🌱 **Learning** | Advanced DSA, System Design, AWS |
+| 👯 **Open To** | Open Source Collabs & AI/ML Projects |
+| 💬 **Ask Me About** | C++, Python, MERN Stack, ML Models |
+| 🏆 **Achievements** | College Hackathons · 22+ GitHub Repos |
+| ⚡ **Fun Fact** | I debug with coffee ☕ and determination 💪 |
+
+</div>
+
+<br/>
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
+
+---
+
+<h2 align="center">⚡ Tech Arsenal</h2>
+
+<div align="center">
+
+**🧠 Programming Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🔧 Tools & Version Control
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**🌐 Web Development**
 
-## 🧩 Skills in Action
-- Solved DSA problems using **C++** (Arrays, Strings, Recursion, STL)
-- Built **ML pipelines** from data preprocessing to model evaluation
-- Developed **RESTful APIs** using Node.js & Express
-- Worked with **SQL & NoSQL databases** (MySQL, MongoDB, Oracle)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+**🗄️ Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+**📊 Data Science & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+**🔧 Tools & IDEs**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Resham1424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=06b6d4&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Resham1424&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=FF6B6B&currStreakLabel=a78bfa&sideLabels=FFFFFF&dates=888888"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Resham1424&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=FFFFFF&langs_count=8"/>
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Resham1424&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=a78bfa&line=06b6d4&point=FFFFFF&area=true&area_color=7c3aed"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Resham1424&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
+
+---
+
+<h2 align="center">📈 Contribution Overview</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Resham1424&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Resham1424&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Resham1424&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Resham1424&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Resham1424&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
+
+---
+
+<h2 align="center">🌟 Featured Projects</h2>
+
+<div align="center">
+
+<a href="https://github.com/Resham1424/q-ai">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Resham1424&repo=q-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=06b6d4&text_color=FFFFFF"/>
+</a>
+<a href="https://github.com/Resham1424/Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-Using-Machine-Learning-Techniques">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Resham1424&repo=Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-Using-Machine-Learning-Techniques&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=06b6d4&text_color=FFFFFF"/>
+</a>
+
+<a href="https://github.com/Resham1424/crime-risk-zone-prediction-system">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Resham1424&repo=crime-risk-zone-prediction-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=06b6d4&text_color=FFFFFF"/>
+</a>
+<a href="https://github.com/Resham1424/Student-performance-detection">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Resham1424&repo=Student-performance-detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=06b6d4&text_color=FFFFFF"/>
+</a>
+
+<a href="https://github.com/Resham1424/ecommerce-store">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Resham1424&repo=ecommerce-store&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=06b6d4&text_color=FFFFFF"/>
+</a>
+<a href="https://github.com/Resham1424/job-portal">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Resham1424&repo=job-portal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=06b6d4&text_color=FFFFFF"/>
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
+
+---
+
+<div align="center">
+
+<h2>💬 Dev Quote of the Day</h2>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a0533,70:2d1b69,100:0a0a0a&height=140&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20like%20them!&fontSize=18&fontColor=a78bfa&fontAlignY=65"/>
+
+</div>
