@@ -15,7 +15,6 @@
 <a href="mailto:rresham317@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0ff0fc&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -114,9 +113,35 @@ public:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0FF0FC&icon_color=8B5CF6&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=0FF0FC&ring=8B5CF6&fire=FF6B6B&currStreakLabel=0FF0FC"/>
+<!-- Overview Stats -->
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Commits-340%2B-0FF0FC?style=for-the-badge&logo=git&logoColor=white"/>
+<br/><sub>across all repos</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Projects-12%2B-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<br/><sub>MERN · ML · DSA</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Internships-2%20Active-4ade80?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<br/><sub>SmartBridge · SkillDzire</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/DSA%20Solved-150%2B-fbbf24?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<br/><sub>arrays · graphs · DP</sub>
+</td>
+</tr>
+</table>
 
+<br/>
+
+<!-- Streak Stats -->
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=0FF0FC&ring=8B5CF6&fire=FF6B6B&currStreakLabel=0FF0FC"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0FF0FC&icon_color=8B5CF6&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+
+<!-- Top Languages & Activity -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0FF0FC&text_color=FFFFFF"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=0FF0FC&line=8B5CF6&point=FFFFFF&area=true&area_color=0FF0FC"/>
 
