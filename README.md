@@ -1,10 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a0533,70:2d1b69,100:0a0a0a&height=220&section=header&text=Resham%20Afroz&fontSize=72&fontColor=00F7F7&animation=fadeIn&fontAlignY=38&desc=BTech%20CSE%20%7C%20MERN%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlignY=58&descColor=a78bfa"/>
+<!-- HEADER: Pure SVG, self-contained, no external service needed -->
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a"/>
+      <stop offset="40%" style="stop-color:#1a0533"/>
+      <stop offset="70%" style="stop-color:#2d1b69"/>
+      <stop offset="100%" style="stop-color:#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0a0a"/>
+      <stop offset="30%" style="stop-color:#a78bfa"/>
+      <stop offset="70%" style="stop-color:#06b6d4"/>
+      <stop offset="100%" style="stop-color:#0a0a0a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)" rx="0"/>
+  <!-- Wave shape top -->
+  <path d="M0,150 C150,100 300,180 450,130 C600,80 750,160 900,120 L900,200 L0,200 Z" fill="#0a0a0a" opacity="0.3"/>
+  <!-- Name text -->
+  <text x="450" y="95" font-family="Arial, sans-serif" font-size="58" font-weight="bold" fill="#00F7F7" text-anchor="middle" letter-spacing="3">Resham Afroz</text>
+  <!-- Subtitle -->
+  <text x="450" y="135" font-family="Arial, sans-serif" font-size="18" fill="#a78bfa" text-anchor="middle" letter-spacing="2">BTech CSE · MERN Developer · AI &amp; ML Enthusiast</text>
+  <!-- Bottom accent line -->
+  <rect x="200" y="158" width="500" height="2" fill="url(#line)" rx="1"/>
+</svg>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=a78bfa&center=true&vCenter=true&random=false&width=750&height=60&lines=🎓+BTech+CSE+%40+3rd+Year;💻+MERN+Stack+%26+Backend+Developer;🤖+Data+Science+%26+ML+Enthusiast;⚡+DSA+Problem+Solver+in+C%2B%2B;🚀+Building+AI-Driven+Real-World+Solutions;🌱+Open+Source+%26+Hackathon+Contributor" alt="Typing SVG" />
+<!-- Typing SVG — demolab instance (most stable) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=a78bfa&center=true&vCenter=true&random=false&width=750&height=55&lines=🎓+BTech+CSE+Student+%40+3rd+Year;💻+MERN+Stack+%26+Backend+Developer;🤖+Data+Science+%26+ML+Enthusiast;⚡+DSA+Problem+Solver+in+C%2B%2B;🚀+Building+AI-Driven+Real-World+Solutions" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -213,12 +239,33 @@ const resham = {
 
 <div align="center">
 
-<h2>💬 Dev Quote of the Day</h2>
+### 💬 Dev Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a0533,70:2d1b69,100:0a0a0a&height=140&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20like%20them!&fontSize=18&fontColor=a78bfa&fontAlignY=65"/>
+<!-- FOOTER: Pure SVG, no external service -->
+<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a"/>
+      <stop offset="40%" style="stop-color:#1a0533"/>
+      <stop offset="70%" style="stop-color:#2d1b69"/>
+      <stop offset="100%" style="stop-color:#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="fline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0a0a"/>
+      <stop offset="30%" style="stop-color:#a78bfa"/>
+      <stop offset="70%" style="stop-color:#06b6d4"/>
+      <stop offset="100%" style="stop-color:#0a0a0a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="url(#footerbg)"/>
+  <path d="M0,40 C200,10 400,70 600,30 C750,5 850,50 900,20 L900,0 L0,0 Z" fill="#0a0a0a" opacity="0.4"/>
+  <rect x="200" y="38" width="500" height="2" fill="url(#fline)" rx="1"/>
+  <text x="450" y="80" font-family="Arial, sans-serif" font-size="16" fill="#a78bfa" text-anchor="middle">⭐ Star my repos if you find them useful!</text>
+  <text x="450" y="105" font-family="Arial, sans-serif" font-size="13" fill="#888888" text-anchor="middle">Made with ❤️ by Resham Afroz</text>
+</svg>
 
 </div>
