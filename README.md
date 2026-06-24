@@ -12,6 +12,9 @@
 <a href="mailto:rresham317@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/u/Resham1424/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
@@ -28,8 +31,8 @@ using namespace std;
 class Developer {
 public:
     string name     = "Shaik Resham Afroz";
-    string degree   = "BTech CSE — Year 3";
-    string location = "Tirupati, India 🇮🇳";
+    string degree   = "BTech CSE — Year 4";
+    string location = "Andhra Pradesh, India 🇮🇳";
 
     vector<string> currentRoles = {
         "MERN Intern @ SmartBridge",
@@ -37,12 +40,12 @@ public:
     };
 
     vector<string> focusAreas = {
-        "Backend Engineering",
+        "Software Engineering",
         "Machine Learning",
         "DSA using C++"
     };
 
-    string goal  = "SWE role in Backend / AI / Full-Stack";
+    string goal  = "SDE&SWE roles / AI / Full-Stack";
     string motto = "Code it. Break it. Fix it. Ship it.";
 };
 ```
@@ -75,9 +78,7 @@ public:
 
 ### 🔥 Streak & Activity
 
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Resham1424&theme=tokyonight&hide_border=true&background=0D1117&stroke=0FF0FC&ring=8B5CF6&fire=FF6B6B&currStreakLabel=0FF0FC"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Resham1424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0FF0FC&icon_color=8B5CF6&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-
+<img width="98%" src="https://ghchart.rshah.org/0FF0FC/Resham1424"/>
 <br/>
 
 ### 🗣️ Top Languages
